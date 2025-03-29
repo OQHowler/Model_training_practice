@@ -1,2 +1,4 @@
-# Model_training_practice
-I am doing my best to learn stuff about ml and implementing it
+# Heart disease prediction model
+Hello,
+This will be my first project in machine learning.
+I trained this model based on logistic regression
